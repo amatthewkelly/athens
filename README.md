@@ -39,7 +39,7 @@ We chat about other Tools for Thought, [graph visualizations](https://github.com
 
 We also love [Future of Coding topics](https://futureofcoding.org/episodes/046#question-thirteen-what-foc-topics-interest-you-most) such as visual programming, live programming, end-user programming, programming language theory, HCI, AR / VR / spatial software, AI / ML, and so on and so forth.
 
-To get an Discord invite link, Tweet at us or ask an Athenian. The links expire to avoid spam bots.
+To get a Discord invite link, Tweet at us or ask an Athenian. The links expire to avoid spam bots.
 
 [![Twitter][2]][2.1]
 
