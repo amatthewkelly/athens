@@ -19,8 +19,13 @@ Athens is currently read-only and pre-alpha. If you want to run Athens or contri
 
 If you would like to join our list of backers and sponsors, please see our [OpenCollective](https://opencollective.com/athens).
 
-[![OpenCollective](https://opencollective.com/athens/tiers/backer.svg?avatarHeight=36)][https://opencollective.com/athens]
-[![OpenCollective](https://opencollective.com/athens/tiers/sponsor.svg?avatarHeight=36)][https://opencollective.com/athens]
+[1]: https://opencollective.com/athens
+[1.1]: https://opencollective.com/athens/tiers/backer.svg?avatarHeight=36
+[1.2]: https://opencollective.com/athens/tiers/sponsor.svg?avatarHeight=36
+
+[![Backers][1.1]][1]
+
+[![Sponsors][1.2]][1]
 
 # Community
 
@@ -36,7 +41,10 @@ We also love [Future of Coding topics](https://futureofcoding.org/episodes/046#q
 
 To get an Discord invite link, Tweet at us or ask an Athenian. The links expire to avoid spam bots.
 
-[![Twitter](https://i.imgur.com/S41NYml.png)][https://twitter.com/AthensResearch]
+[![Twitter][2]][2.1]
+
+[2]: https://i.imgur.com/S41NYml.png
+[2.1]: https://twitter.com/AthensResearch
 
 ---
 
