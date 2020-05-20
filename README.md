@@ -2,7 +2,7 @@
 
 — Socrates
 
-# Athens
+# Learn More
 
 To learn more about this project, please see:
 
@@ -11,11 +11,11 @@ To learn more about this project, please see:
 - [Governance](https://github.com/athensresearch/athens/blob/master/GOVERNANCE.md)
 - [Code of Conduct](https://github.com/athensresearch/athens/blob/master/CODE_OF_CONDUCT.md)
 
-# Contributing
+# Contribute
 
 Athens is currently read-only and pre-alpha. If you want to run Athens or contribute, follow the instructions in [Contributing](https://github.com/athensresearch/athens/blob/master/CONTRIBUTING.md).
 
-# Patrons
+# Patronize Us
 
 If you would like to join our list of backers and sponsors, please see our [OpenCollective](https://opencollective.com/athens).
 
@@ -27,7 +27,7 @@ If you would like to join our list of backers and sponsors, please see our [Open
 
 [![Sponsors][1.2]][1]
 
-# Community
+# Join Us
 
 If you have any input on how you want this project to unfold, please join our Discord.
 
