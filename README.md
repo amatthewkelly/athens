@@ -4,14 +4,12 @@
 
 # Athens
 
-Open-source networked thought
+To learn more about this project, please see:
 
-To learn more about this project, please read:
-
-- [Athens Vision: individual and collective memexes](https://github.com/athensresearch/athens/blob/master/VISION.md)
-- [Athens Notion](https://www.notion.so/athensresearch/Athens-Research-67e1c6068cb449ff935d10e882fd9b05)
-- [Athens Governance](https://github.com/athensresearch/athens/blob/master/GOVERNANCE.md)
-- [Athens Code of Conduct](https://github.com/athensresearch/athens/blob/master/CODE_OF_CONDUCT.md)
+- [Vision - individual and collective memexes](https://github.com/athensresearch/athens/blob/master/VISION.md)
+- [Our Notion](https://www.notion.so/athensresearch/Athens-Research-67e1c6068cb449ff935d10e882fd9b05)
+- [Governance](https://github.com/athensresearch/athens/blob/master/GOVERNANCE.md)
+- [Code of Conduct](https://github.com/athensresearch/athens/blob/master/CODE_OF_CONDUCT.md)
 
 # Contributing
 
@@ -19,9 +17,10 @@ Athens is currently read-only and pre-alpha. If you want to run Athens or contri
 
 # Patrons
 
-If you would like to join our list of patrons, please see our [OpenCollective](https://opencollective.com/athens).
+If you would like to join our list of backers and sponsors, please see our [OpenCollective](https://opencollective.com/athens).
 
-![OpenCollective](https://opencollective.com/athens/tiers/sponsor.svg?avatarHeight=36)
+[![OpenCollective](https://opencollective.com/athens/tiers/backer.svg?avatarHeight=36)][https://opencollective.com/athens]
+[![OpenCollective](https://opencollective.com/athens/tiers/sponsor.svg?avatarHeight=36)][https://opencollective.com/athens]
 
 # Community
 
@@ -37,7 +36,7 @@ We also love [Future of Coding topics](https://futureofcoding.org/episodes/046#q
 
 To get an Discord invite link, Tweet at us or ask an Athenian. The links expire to avoid spam bots.
 
-[![Twitter][https://i.imgur.com/S41NYml.png]][https://twitter.com/AthensResearch]
+[![Twitter](https://i.imgur.com/S41NYml.png)][https://twitter.com/AthensResearch]
 
 ---
 
